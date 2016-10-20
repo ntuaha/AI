@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ntuaha/AI/issues"
   },
-  "homepage": "https://github.com/ntuaha/AI#readme"
+  "homepage": "https://github.com/ntuaha/AI#readme",
+  "dependencies": {
+    "pg-promise": "^5.3.4"
+  }
 }
