@@ -1,0 +1,22 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntuaha/AI.git"
+  },
+  "author": "aha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntuaha/AI/issues"
+  },
+  "homepage": "https://github.com/ntuaha/AI#readme"
+}
